@@ -21,6 +21,6 @@
 <div align='center'>
     <!-- Cambia 'jhojanperlaza' a tu nombre de usuario de GitHub -->
     <img style="border-radius: 5px; margin-bottom: 5px" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=MiguelZapataZuluaga&langs_count=10&theme=radical&layout=compact" alt="Tus Lenguajes Principales" />
-    <!-- Cambia 'jhojanperlaza' a tu nombre de usuario de GitHub -->
+
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelZapataZuluaga&show_icons=true&theme=radical" alt="Tus Estadísticas de Perfil" />
 </div>
