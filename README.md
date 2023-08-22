@@ -8,7 +8,7 @@
 ***Redes sociales:***
 <p align="left">
 <a href="https://linkedin.com/in/miguel-angel-zapata-zuluaga-54b922237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-angel-zapata-zuluaga-54b922237" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/337078/miguel-angel-zapata-zuluaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="337078/miguel-angel-zapata-zuluaga" height="30" width="40" /></a>
+<a href="https://es.stackoverflow.com/users/337078/miguel-angel-zapata-zuluaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="337078/miguel-angel-zapata-zuluaga" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/miguel_zapata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="miguel_zapata" height="30" width="40" /></a>
 </p>
 
