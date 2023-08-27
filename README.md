@@ -19,6 +19,6 @@
  #    **GitHub Stats:**
 
 <div align='center'>
-    <img style="border-radius: 5px; margin-bottom: 5px" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=MiguelZapataZuluaga&langs_count=6&theme=gruvbox&layout=compact&show_icons=true&" alt="Tus Lenguajes Principales" />
+    <img style="border-radius: 5px; margin-bottom: 5px" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=MiguelZapataZuluaga&langs_count=4&theme=gruvbox&layout=compact&show_icons=true&" alt="Tus Lenguajes Principales" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelZapataZuluaga&show_icons=true&theme=gruvbox" alt="" />
 </div>
