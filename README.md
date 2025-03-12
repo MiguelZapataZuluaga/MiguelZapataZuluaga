@@ -1,4 +1,4 @@
-<h1 align="center">Hola a todos 👋 que gusto que estes aqui, soy Miguel Angel</h1>
+<h1 align="center">👋¡Que gusto que estes aqui!, soy Miguel Angel</h1>
 <h3 align="center">Desarrollador de software | Ingeniero Electronico | Desarrollador SQL</h3>
 
 - 📫 ***Puedes escribirme:*** **miguel.zapata@correounivalle.edu.co**
